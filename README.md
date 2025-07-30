@@ -1,7 +1,9 @@
 🛠️ Tool Wear Prediction using LSTM
+
 A machine learning project to predict tool wear conditions (Unworn, Worn, Damaged) based on CNC machine sensor data using an LSTM model. The app also predicts if machining is finalized and if the product passes visual inspection.
 
 📦 Features
+
 LSTM-based deep learning model (.h5) trained on sensor data
 
 Real-time predictions via a Streamlit web app
